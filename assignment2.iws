@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbb9e824-50f4-4a41-aaa5-7bd497b98d6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/tags/listassessments.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/About.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/Dashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Dashboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/dashboard.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/dashboard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/start.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/start.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/tags/mainpanel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/tags/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/tags/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/application.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/application.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/routes" beforeDir="false" afterPath="$PROJECT_DIR$/conf/routes" afterDir="false" />
-    </list>
+    <list default="true" id="fbb9e824-50f4-4a41-aaa5-7bd497b98d6e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +66,7 @@
       <workItem from="1591348575622" duration="4694000" />
       <workItem from="1591443387415" duration="2800000" />
       <workItem from="1591450172287" duration="626000" />
-      <workItem from="1591550776027" duration="9018000" />
+      <workItem from="1591550776027" duration="9762000" />
     </task>
     <servers />
   </component>
