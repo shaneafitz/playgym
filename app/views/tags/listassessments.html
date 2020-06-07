@@ -1,0 +1,37 @@
+// not used yet. maybe in future
+<table class="ui celled table">
+    <thead>
+    <tr>
+        <th>Weight</th>
+        <th>Chest</th>
+        <th>Thigh</th>
+        <th>Upper Arm</th>
+        <th>Waist</th>
+        <th>Hips</th>
+    </tr>
+    </thead>
+    <tbody>
+    #{list items: _memberlist.assessments, as:'assessment'}
+    <tr>
+        <td>
+        ${assessment.weight}
+        </td>
+        <td>
+        ${assessment.chest}
+        </td>
+        <td>
+        ${assessment.thigh}
+        </td>
+        <td>
+        ${assessment.upperArm}
+        </td>
+        <td>
+        ${assessment.waist}
+        </td>
+        <td>
+        ${assessment.hips}
+        </td>
+    </tr>
+    #{/list}
+    </tbody>
+</table>
